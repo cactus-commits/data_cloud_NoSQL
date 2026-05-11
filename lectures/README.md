@@ -1,2 +1,6 @@
 # Lecture notes
-[[00_cloud_intro]]
+
+1. Intro to databricks
+    - Databricks, Pyspark, SparkSQL
+
+2. Medallion architecture
