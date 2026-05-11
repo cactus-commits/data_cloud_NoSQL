@@ -1,1 +1,1 @@
-# data_cloud_NoSQL
+# data bricks
