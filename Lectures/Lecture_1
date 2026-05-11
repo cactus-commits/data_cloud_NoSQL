@@ -1,0 +1,21 @@
+# Upplägg
+- Innan sommaren: Big Data (används inte som term längre egentligen) men innebär att man i princip kan jobba med hur stor data som möjligt om man har råd.
+- Efter sommaren: Cloud och NoSQL. NoSQL passar egentligen inte in i denna kurs.
+- Databricks → 4 första veckorna
+- Azure → 2 veckor
+
+
+# Databricks
+
+- pyspark
+- medallion (silver & gold)
+- data intelligence plattform
+- Unity catalog
+- ETL/ELT
+- data pipelines
+- LakeFlow → viktigt för data engineering
+    - genom LakeFlow connect can man connecta Databricks med t.ex. PostgreSQL
+- Spark declarative pipeline → man skeiver declarativ kod (vad man vill)  och det sköts automatiskt (innan behövde man skriva exakt hur det skulle göras).
+- Data lineage
+- Genie
+
