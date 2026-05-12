@@ -1,6 +1,19 @@
 ## Medallion architecture 
 
+### What is medallion architecture
+- a way to organize data in data lakehouse
+- when data i continously refined throughout a data pipeline, data with imporving quality are stored in different layers (bronze, silver, gold)
+
+## Benefits
+- preserve historical archive of sta and make reprocessing easy 
+- enable step-by-step transformation
+- data lineage for debugging
+
+## Data layers
 This image shows an overview of the medallion architecture. 
+
+> [!NOTE]
+> All data is stil in the unity catalog but you can have the different layers as different schemas.
 
 <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_architecture_overview.png?raw=true" alt="intro to cloud computing" width="600">
 
